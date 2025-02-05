@@ -30,7 +30,7 @@ public class GameManager : MonoBehaviour
     void Start()
     {
         Time.timeScale = 1.0f;
-        InvokeRepeating("MakeSquare", 0f, 1f);
+        InvokeRepeating("MakeSquare", 00f, 1f);
     }
 
 
